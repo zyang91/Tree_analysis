@@ -1,4 +1,6 @@
 # Tree_analysis
+[![Software License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 Tree analysis of Binghamton
 
 ## Data (Source)
